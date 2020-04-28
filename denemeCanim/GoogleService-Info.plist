@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>463382145856-agb9ms8cfv13i1o4vtvog3n3u2abf6ta.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.463382145856-agb9ms8cfv13i1o4vtvog3n3u2abf6ta</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGPyQJDn6ZZs6nIQXkwHA0Um2fg_Ntn3o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>463382145856</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>no.denemeCanim</string>
+	<key>PROJECT_ID</key>
+	<string>denemecanim-b9ecb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>denemecanim-b9ecb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:463382145856:ios:9830280de9c288ccc368a5</string>
+	<key>DATABASE_URL</key>
+	<string>https://denemecanim-b9ecb.firebaseio.com</string>
+</dict>
+</plist>
